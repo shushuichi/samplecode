@@ -1,0 +1,5 @@
+CC= gcc
+LOADLIBES=-lm
+kadai8-1201201149-1: kadai8-1201201149-1.o kadai8-1201201149-1-main.o
+kadai8-1201201149-1.o: kadai8-1201201149-1.c
+kadai8-1201201149-1-main.o: kadai8-1201201149-1-main.c
